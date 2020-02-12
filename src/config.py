@@ -1,0 +1,8 @@
+MODEL_DIR = '/app/models'
+FITTED_MODEL_PATH = '/app/models/unet_0.10.pth'
+DATASET_PATH = '/data'
+
+SAMPLE_SIZE = (80, 1024)
+NUM_ENCODER_LAYERS = 6
+NUM_CHAN = 24
+NUM_INPUT_CHAN = 1
