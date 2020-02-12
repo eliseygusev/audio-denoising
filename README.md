@@ -4,7 +4,7 @@
 
 ![UNet](/img/unet_with_class_head.jpg)
 
-Докер-репозиторий лежит тут: [egusev/audio-denoising](https://hub.docker.com/repository/docker/egusev/audio-denoising)
+Докер-репозиторий лежит тут: [egusev/audio-denoising](https://hub.docker.com/r/egusev/audio-denoising)
 
 Чтобы запустить тренировку нужно запустить файл train.py из текущей директории
 
